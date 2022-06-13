@@ -30,6 +30,8 @@ float* vetB(){
 
 int main(){
 
+    float *a = NULL;
+    float *b = NULL;
     float* a = vetA();
     float* b = vetB();
     float c[20];

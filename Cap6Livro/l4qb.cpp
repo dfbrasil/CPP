@@ -4,7 +4,7 @@ using namespace std;
 
 float* mult(){ //return type- address of float array
 
-    float* a = new float(); //array declared as float
+    float* a = new float; //array declared as float
 
     for (int i = 0; i < 8; i++){
 
