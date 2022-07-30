@@ -5,5 +5,6 @@
         "cmath": "cpp",
         "new": "cpp",
         "random": "cpp"
-    }
+    },
+    "editor.wordWrap": "on"
 }
