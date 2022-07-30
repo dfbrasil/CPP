@@ -40,7 +40,7 @@ int main(){
     cout << "\n";
     }
 
-    cout << "\n Matriz B";
+    cout << "\n Vetor B";
     cout << "\n";
 
     for (int i = 0; i<7; i++){
