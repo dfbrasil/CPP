@@ -6,5 +6,6 @@
         "new": "cpp",
         "random": "cpp"
     },
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "C_Cpp.errorSquiggles": "Disabled"
 }
